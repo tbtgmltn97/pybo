@@ -82,9 +82,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pybo',
-        'USER' : 'root',
-        'PASSWORD' : 'password',
-        'HOST' : '127.0.0.1',
+        'USER' : '',
+        'PASSWORD' : '',
+        'HOST' : '',
         'PORT' : '4001'
     }
 }
